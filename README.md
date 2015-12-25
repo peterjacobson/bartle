@@ -2,9 +2,9 @@
 ## The Art Battle Game ヽ(￣(ｴ)￣)ﾉ  
 **[Tweet #bartlegame](https://twitter.com/intent/tweet?hashtags=bartlegame)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Visit facebook group!](https://www.facebook.com/bartlegame)**
 <figure>
-  <img src="/images/bartle-v1-small.JPG" alt="Sample of first Bartle deck and instructions"><br>
+  <img src="/images/bartle-v1-small.JPG" alt="Sample of a Bartle deck and instructions"><br>
   <figcaption>
-    <p><strong>Figure 1:</strong> Sample of the original Bartle deck</p>
+    <p><strong>Figure 1:</strong> Sample of a Bartle deck</p>
   </figcaption>
 </figure>
 
