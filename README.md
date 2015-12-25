@@ -22,14 +22,7 @@
   - Why do christmas trees represent christmas?
   - Why do we create music?
   - Why do we work?
-  - What is courage?
-  - Why do I see red?
-  - What is our place in the universe?
-  - What is evil?
-  - Where does injustice live?
-  - Why do I see beauty?
-  - What is madness?
-  - Why do we create games like these?
+  - [More questions...](/bartle-questions.md)
 3. All other players are the Ponderers. Each Ponderer looks through their hand to find a work that best answers the question.
 4. The Poser makes sure everyone has chosen a work
 5. The Poser counts down to the showdown with "Bartle, Bartle, BARTLE!"
