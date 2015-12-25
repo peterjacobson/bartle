@@ -40,7 +40,7 @@ Make pull requests to add links to your modified Bartle! (see 'Hack it' section 
 
 ### How to get a deck
 Try one, or a combination of these:
-- Cut up cheap second hand art books. [list of good books to hack into Bartle](/BartleableBooks.md)
+- Cut up cheap second hand art books. [list of good books to hack into Bartle](/bartleable-books.md)
 - Draw your own
 - Print from photographs
 - Print from [Creative Commons search query='Art'](https://www.google.co.nz/search?site=imghp&tbm=isch&q=art&tbs=sur:fc&gws_rd=cr&ei=Xx99VquCEoeqjwOV3KSICQ)
