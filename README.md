@@ -1,7 +1,7 @@
 # Bartle
 ## The Art Battle Game
 <figure>
-  <img src="/images/bartle-v1-small-JPG" alt="Sample of first Bartle deck and instructions"><br>
+  <img src="/images/bartle-v1-small.JPG" alt="Sample of first Bartle deck and instructions"><br>
   <figcaption>
     <p><strong>Figure 1:</strong> Sample of the original Bartle deck</p>
   </figcaption>
