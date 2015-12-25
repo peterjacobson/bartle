@@ -1,5 +1,6 @@
 # Bartle
 ## The Art Battle Game ヽ(￣(ｴ)￣)ﾉ
+#bartlegame 
 <figure>
   <img src="/images/bartle-v1-small.JPG" alt="Sample of first Bartle deck and instructions"><br>
   <figcaption>
@@ -44,7 +45,7 @@ Make pull requests to add links to your modified Bartle! (see 'Hack it' section 
 - [childrenhack example](#)
 - *add a link to your fork here with a Pull Request!*
 
-## How to get a deck
+## How do I get a deck?
 Hunt for a range of different works of art - different styles (1800's, 1970's, 2000's) and types (paintings, sculptures, photos, drawings).  
 The works don't really have to be of the same size.  
 About 30 works will be enough to start with, but the more you can get the more awesome it'll be!
@@ -56,7 +57,7 @@ Try one, or a combination of these:
 - Print from [Creative Commons search query='Art'](https://www.google.co.nz/search?site=imghp&tbm=isch&q=art&tbs=sur:fc&gws_rd=cr&ei=Xx99VquCEoeqjwOV3KSICQ)
 - Play in a gallery with real life art
 
-## Hack it
+## Hack it!
 - Found some tweaks to make it better? [Fork this repo](https://help.github.com/articles/fork-a-repo/), make your awesome changes and make a [Pull Request](https://help.github.com/articles/using-pull-requests/) with:
   - Your improvements to this repo, or
   - An additional link to your fork in the 'Alternative Rules' list
@@ -64,7 +65,7 @@ Try one, or a combination of these:
 - Can it be played in a gallery?
 - Travel Bartle?
 - Add your own works to the decks, and share them with #bartle
-- Build epic decks, share them
+- Build epic decks, share them!
 
 ## Licence to hack
 
