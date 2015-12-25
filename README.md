@@ -9,10 +9,10 @@
 
 ## What?
 1. Get a deck
-2. Play the game
+2. Play the game *with 2-10 people (best with four or more)*
 3. Hack it
 
-## Gameplay
+## How do I play?
 
 ### Vanilla rules
 1. Deal each player eight works from the deck
@@ -41,8 +41,8 @@
 
 ### Alternative Rules:
 Make pull requests to add links to your modified Bartle! (see 'Hack it' section for guidelines)
-- [example] childrenhack
-- [example] museumhack
+- [childrenhack example](#)
+- *add a link to your fork here with a Pull Request!*
 
 ## How to get a deck
 Try one, or a combination of these:
