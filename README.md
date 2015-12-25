@@ -15,7 +15,15 @@
 
 ## How do I play?
 
-### Vanilla rules
+### Quick rules
+1. Each player **always** has eight works of art in their hand
+1. One player (the Poser) asks a question
+2. All the other players have to play a work of art to answer the question
+3. The Poser chooses their favourite answer - one point to the winning player.
+4. Repeat steps 2 to 4
+
+
+### Detailled rules
 1. Deal each player eight works from the deck.
 2. One player becomes the Poser... ...of the question for the round - for example:
   - What is love?
@@ -57,7 +65,7 @@ Try one, or a combination of these:
 - Found some tweaks to make it better? [Fork this repo](https://help.github.com/articles/fork-a-repo/), make your awesome changes and make a [Pull Request](https://help.github.com/articles/using-pull-requests/) with:
   - Your improvements to this repo, or
   - An additional link to your fork in the 'Alternative Rules' list
-- Surely the Poser should be wearing something ridiculous... a monacle?
+- Surely the Poser should be wearing something ridiculous... a monocle?
 - Can it be played in a gallery?
 - Travel Bartle?
 - Add your own works to the decks, and share them with #bartle
