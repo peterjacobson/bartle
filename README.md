@@ -45,6 +45,10 @@ Make pull requests to add links to your modified Bartle! (see 'Hack it' section 
 - *add a link to your fork here with a Pull Request!*
 
 ## How to get a deck
+Hunt for a range of different works of art - different styles (1800's, 1970's, 2000's) and types (paintings, sculptures, photos, drawings).  
+The works don't really have to be of the same size.  
+About 30 works will be enough to start with, but the more you can get the more awesome it'll be!
+
 Try one, or a combination of these:
 - Cut up cheap second hand art books. [list of good books to hack into Bartle](/bartleable-books.md)
 - Draw your own
@@ -77,5 +81,5 @@ to the original co-crafters and players:
 - James Boocock
 - Gabrielle Young
 - Sebastian Beaudet
-- Piet Guersen
+- Piet Guersen  
 You're awesome.
