@@ -84,5 +84,6 @@ to the original co-crafters and players:
 - Gabrielle Young
 - Sebastian Beaudet
 - Ashyln Baum
-- Piet Guersen  
+- Piet Guersen
+
 **You're awesome.**
