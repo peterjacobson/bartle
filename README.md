@@ -82,5 +82,6 @@ to the original co-crafters and players:
 - James Boocock
 - Gabrielle Young
 - Sebastian Beaudet
+- Ashyln Baum
 - Piet Guersen  
-You're awesome.
+**You're awesome.**
