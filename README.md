@@ -34,8 +34,7 @@
 11. All Ponderers draw another work from the deck (all players should always have eight cards in their hand).
 12. The Poser passing Posing duties to the Ponderer to their left, and becomes a Ponderer.
 13. The new Poser starts again at step 2.
-14. Repeat until you feel the need to get a life.
-15. Hack the game
+14. Repeat until you feel the need to get a life...
 
 ### Alternative Rules:
 Make pull requests to add links to your modified Bartle! (see 'Hack it' section for guidelines)
