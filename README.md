@@ -34,12 +34,17 @@
 11. All Ponderers draw another work from the deck (all players should always have eight cards in their hand)
 
 #### Alternative Rules:
-- *make pull requests to add links to your modified Bartle!*
+Make pull requests to add links to your modified Bartle! (see 'Hack it' section for guidelines)
 - [example] childrenhack
 - [example] museumhack
 
 ### How to get a deck
-
+Try one, or a combination of these:
+- Cut up cheap second hand art books. [list of good books to hack into Bartle](/BartleableBooks.md)
+- Draw your own
+- Print from photographs
+- Print from [Creative Commons search query='Art'](https://www.google.co.nz/search?site=imghp&tbm=isch&q=art&tbs=sur:fc&gws_rd=cr&ei=Xx99VquCEoeqjwOV3KSICQ)
+- Play in a gallery with real life art
 
 ### Hack it
 - Found some tweaks to make it better? [Fork this repo](https://help.github.com/articles/fork-a-repo/), make your awesome changes and make a [Pull Request](https://help.github.com/articles/using-pull-requests/) with:
