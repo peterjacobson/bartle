@@ -16,22 +16,26 @@
 ## How do I play?
 
 ### Vanilla rules
-1. Deal each player eight works from the deck
-2. One player becomes the Poser... ...of the question - for example:
+1. Deal each player eight works from the deck.
+2. One player becomes the Poser... ...of the question for the round - for example:
   - What is love?
   - Why do christmas trees represent christmas?
   - Why do we create music?
   - Why do we work?
   - [More questions...](/bartle-questions.md)
 3. All other players are the Ponderers. Each Ponderer looks through their hand to find a work that best answers the question.
-4. The Poser makes sure everyone has chosen a work
-5. The Poser counts down to the showdown with "Bartle, Bartle, BARTLE!"
+4. The Poser makes sure everyone has chosen a work.
+5. The Poser counts down to the showdown with "Bartle, Bartle, BARTLE!".
 6. On the final "BARTLE!" all Ponderers reveal their chosen work to the Poser.
 7. The Poser asks each Ponderer (starting from the Ponderer on their left) to explain how their work answers the question.
-8. The Poser chooses a winning answer
-9. The winning Ponderer adds the winning work to their Win! pile
-10. All other works are added to the bottom of the deck
-11. All Ponderers draw another work from the deck (all players should always have eight cards in their hand)
+8. The Poser chooses a winning answer.
+9. The winning Ponderer adds the winning work to their **Win!** pile.
+10. All other works are added to the bottom of the deck.
+11. All Ponderers draw another work from the deck (all players should always have eight cards in their hand).
+12. The Poser passing Posing duties to the Ponderer to their left, and becomes a Ponderer.
+13. The new Poser starts again at step 2.
+14. Repeat until you feel the need to get a life.
+15. Hack the game
 
 ### Alternative Rules:
 Make pull requests to add links to your modified Bartle! (see 'Hack it' section for guidelines)
