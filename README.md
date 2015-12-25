@@ -1,6 +1,6 @@
 # Bartle
-## The Art Battle Game ヽ(￣(ｴ)￣)ﾉ
-#bartlegame 
+## The Art Battle Game ヽ(￣(ｴ)￣)ﾉ  
+**[Tweet #bartlegame](https://twitter.com/intent/tweet?hashtags=bartlegame)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Visit facebook group!](https://www.facebook.com/bartlegame)**
 <figure>
   <img src="/images/bartle-v1-small.JPG" alt="Sample of first Bartle deck and instructions"><br>
   <figcaption>
