@@ -82,6 +82,7 @@ to the original co-crafters and players:
 - Paul Simpson
 - Michael Ong
 - Ermin Zvicdic
+- Joe Dodgshun
 - Christine Jacobson
 - Elsie Jacobson
 - James Boocock
